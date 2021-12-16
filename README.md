@@ -21,3 +21,11 @@ database.**
 2. MySQL 8.0.27
 3. Javax Servlet API
 4. Tomcat 9.0.55
+
+**Funktsional:**
+1. Login
+2. Create/delete Car
+3. Create/delete Manufacture
+4. Create/delete Driver
+5. Add Driver to Car
+6. Get all Cars/Drivers/Manufacturers
